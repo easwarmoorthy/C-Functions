@@ -1,4 +1,12 @@
 //#include<stdio.h>
+
+/*
+For Example
+i/p hello 	o/p helo
+i/p aaa   	o/p a
+i/p removewords o/p removwds 
+*/
+
 int shift(char *arr)
 {
 	while(*arr!= '\0')

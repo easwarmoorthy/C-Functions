@@ -1,4 +1,4 @@
-//#include<stdio.h>
+#include<stdio.h>
 
 /*
 For Example
@@ -42,7 +42,7 @@ int remove_duplicate(char *arr)
 	}
 	return 0;
 }
-/*
+
 int main()
 {
 	char a[100];
@@ -51,4 +51,4 @@ int main()
 	printf("%s",a);
 	return 0;
 }
-*/
+
